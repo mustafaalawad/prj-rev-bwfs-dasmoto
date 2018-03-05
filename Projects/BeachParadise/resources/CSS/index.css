@@ -1,0 +1,10 @@
+html {
+  font-family: Helvetica, sans-serif;
+
+}
+.main_heading, .secound_heading {
+  color: DarkGreen;
+}
+h3 {
+  color: SeaGreen;
+}
